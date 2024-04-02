@@ -2,4 +2,4 @@ This package allows you to use 3 GPT models in your terminal! **It lets you use 
 # Installation 🤖
 ### ```npm install -g gpt-cmd```
 # Usage  
-### ```gpt-cmd```    "# gpt-cmd" 
+### ```gpt-cmd```
